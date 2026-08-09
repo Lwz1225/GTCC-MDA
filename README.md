@@ -7,8 +7,9 @@
 GTCC-MDA is a dual-branch graph learning framework for predicting potential metabolite–drug associations. It jointly models local similarity structures and global association dependencies through collaborative contrastive learning.
 
 The local branch employs GCNII to encode higher-order structural information from fused and sparsified metabolite and drug similarity networks. The global branch uses a graph Transformer with Laplacian positional encoding and multi-hop association contexts to capture long-range dependencies in the metabolite–drug association network. Bidirectional multi-positive contrastive learning aligns the two representation spaces, while branch-specific decoders and learnable late fusion integrate their complementary predictions.
+### 🏠 Overview of GTCC-MDA
 
-！[Overview of GTCC-MDA]("E:\论文投稿\第六篇\GTCC-MDA\GitHub\flow chart.jpg")
+![Overview of GTCC-MDA](https://github.com/Lwz1225/GTCC-MDA/blob/main/flow%20chart.jpg)
 
 
 ## ✨ Main features
