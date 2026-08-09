@@ -1,0 +1,12 @@
+Acc [0.9019, 0.9073, 0.9005, 0.8992, 0.929]
+Pre [0.9259, 0.9106, 0.8725, 0.8857, 0.9211]
+Recall [0.8737, 0.9032, 0.9382, 0.9167, 0.9383]
+F1 [0.899, 0.9069, 0.9041, 0.9009, 0.9296]
+Auc [0.9534, 0.9605, 0.956, 0.9637, 0.9719]
+Prc [0.9578, 0.965, 0.9589, 0.9668, 0.9747]
+AUC mean: 0.9611, standard deviation: 0.0065
+Accuracy mean: 0.9076, standard deviation: 0.0111
+Precision mean: 0.9032, standard deviation: 0.0207
+Recall mean: 0.9140, standard deviation: 0.0242
+F1-score mean: 0.9081, standard deviation: 0.0111
+PRC mean: 0.9646, standard deviation: 0.0061
