@@ -105,9 +105,8 @@ GTCC-MDA/
 ├── GTCC-MDA_dataset1/         Model and training code for Dataset 1
 ├── GTCC-MDA_dataset2/         Model and training code for Dataset 2
 ├── result_dataset1/             Experimental results for Dataset 1
-├── result_dataset2/             Experimental results for Dataset 2
-├── requirements.txt             Python dependencies
-└── README.md                    Project documentation
+└── result_dataset2/             Experimental results for Dataset 2
+
 ```
 
 ## ⚙️ Main model options
